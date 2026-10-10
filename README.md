@@ -20,5 +20,4 @@ int main ()
 { cout << "you are too young to play" << endl;
 return 0;
 
-
 }
