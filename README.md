@@ -22,4 +22,3 @@ return 0;
 
 
 }
-you are too young to play
