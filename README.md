@@ -1,5 +1,4 @@
-# Programing-fundamentals-lab-1
-PF lab 1 Hello world printing 
+# Programing-fundamentals-lab1
 
 Task.1:
 
@@ -9,5 +8,17 @@ using namespace std;
 int main () 
 { cout << "hello word" << endl;
 return 0;
+
+}
+
+Task.2:
+
+#include<iostream>
+using namespace std;
+
+int main () 
+{ cout << "you are too young to play" << endl;
+return 0;
+
 
 }
